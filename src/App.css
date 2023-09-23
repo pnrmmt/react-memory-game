@@ -10,7 +10,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,107,1) 35%, rgb(153, 34, 153) 100%);
+  background:#b4375d;
 }
 
 img{
